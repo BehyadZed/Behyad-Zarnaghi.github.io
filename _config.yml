@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Behyad's Page bip"
+title                    : "Behyad's Page"
 title_separator          : "-"
 name                     : &name "Behyad Zarnaghi"
 description              : &description "personal description"
