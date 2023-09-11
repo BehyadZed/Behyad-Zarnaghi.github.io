@@ -8,7 +8,5 @@ date: 2022-01-01
 location: "City, Country"
 ---
 
-I was resposible for conducting lab sessions, providing brief explanation of tasks and grading students at the end of the semester.
-
-Heading 1
-======
+#### Under supervision of Prof.Arash Bahrami and Prof.Farzad Ayatollah Shirazi
+Performing my first academic teaching experience, I was resposible for coordinated grading, feedback and assessment.
