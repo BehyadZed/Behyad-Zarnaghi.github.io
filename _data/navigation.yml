@@ -10,7 +10,8 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Behyad Zarnaghi-CV.pdf
     
   - title: "Patent"
+    photo: /images/Final_Assembly.JPG
     url: /markdown/
