@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Dynamics and Vibration Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2022-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was resposible for conducting lab sessions, providing brief explanation of tasks and grading students at the end of the semester.
 
 Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
