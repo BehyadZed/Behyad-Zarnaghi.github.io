@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University of Tehran, Mechanical Engineering Department"
-date: "Fall 2021"
+date: 2021
 location: "Tehran, Iran"
 ---
 Under supervision of Prof.Abolfazl Masoumi
