@@ -9,4 +9,4 @@ location: "Tehran, Iran"
 ---
 
 #### Under supervision of Prof.Abbas Rastgo
-Performing my first academic teaching experience, I was resposible for coordinated grading, feedback and assessment.
+ I was resposible for coordinated grading, feedback and assessment. Moreover, responsible for developing educational contents on how to work with ADAMS software and python coding for dynamic and static analysis of single DOF mechanisms. 

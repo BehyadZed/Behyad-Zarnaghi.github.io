@@ -9,4 +9,4 @@ location: "City, Country"
 ---
 
 #### Under supervision of Prof.Arash Bahrami and Prof.Farzad Ayatollah Shirazi
-Performing my first academic teaching experience, I was resposible for coordinated grading, feedback and assessment.
+I am resposible for coordinating and instructing lab sessions.

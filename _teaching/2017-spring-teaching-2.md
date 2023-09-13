@@ -9,4 +9,4 @@ location: "Tehran, Iran"
 ---
 
 #### Under supervision of Prof.Ahmad Kalhor
-Performing my first academic teaching experience, I was resposible for coordinated grading, feedback and assessment.
+Recently assigned as TA for this course, I am resposible for developing educational contents on relevant python frame works like Pytorch and Keras.
