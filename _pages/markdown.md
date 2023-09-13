@@ -7,13 +7,15 @@ redirect_from:
   - /markdown.html  
 ---
 
-<img src="/images/foo-bar-identity.jpg" alt="CAD render of the patent" width="300" height="200">
+
   <!-- !['CAD render of the patent'](/images/foo-bar-identity.jpg)  -->
 <!-- ){: .align-right width="300px"}  -->
 <!-- images/Final_Assembly.JPG -->
 
 ## Smart Air Sanitizer Light With Remote Control
 Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light.Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light. 
+
+<img src="/images/foo-bar-identity.jpg" alt="CAD render of this patent" width="300" height="200">
 
 <!-- 
 * Basic config options: _config.yml
