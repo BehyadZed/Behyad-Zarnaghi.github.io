@@ -12,7 +12,7 @@ My main interest is oriented on robotics, specifically Multi-agent robotics. Add
 
 Selected Experience
 ======
-I have worked with swarm robotics during my recent internship by exploiting ROS frame work. Inorder to run either simulation and robots commmand , first a ROS package should be created. Using zsh or bash commands in Ubunto. was working in the simulation environment of ROS. this task included altering variables of the simulation through out the yml files. In the next steps the algorithm for randomizing the initial position of drones was achieved. The main algorithm for drones to keep moving was flocking algorithm, though it's dynamic could have achieved by various paterns with implemeting the correspond python code. 
+
 
 Getting started
 ====
