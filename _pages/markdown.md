@@ -6,7 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html  
 ---
-!['Note'](/images/Final_Assembly.JPG){: .align-right width="300px"}
+!['CAD render of the patent'](/images/foo-bar-identity.jpg){: .align-right width="300px"} 
+<!-- images/Final_Assembly.JPG -->
 
 ## Smart Air Sanitizer Light With Remote Control
 Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light.Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light. 
