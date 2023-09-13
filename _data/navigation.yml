@@ -1,13 +1,11 @@
 # main links links
 main:
+  
   - title: "Projects"
-    url: /publications/   
-
+    url: /portfolio/
+    
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
     
   - title: "CV" 
     url: /files/cv.pdf
@@ -15,3 +13,6 @@ main:
   - title: "Patent"
     #photo: /images/Final_Assembly.JPG
     url: /markdown/
+
+  # - title: "Projects"
+    # url: /publications/ 
