@@ -15,9 +15,9 @@ redirect_from:
 ## Smart Air Sanitizer Light With Remote Control
 Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light.Smart Air Sanitizer Light With Remote Control is a multi-threading device that is concerned with disinfecting air, using high-frequency ultraviolet light. 
 
-Patent Number: [108316](https://ipm.ssaa.ir/_Search/Invention.aspx#page-1)
+Patent Number: [108316](https://ipm.ssaa.ir/_Search/Invention.aspx#page-1) in State Organization for Registration of Deeds and Properties
 
-<img src="../images/Final_Assembly.JPG" alt="CAD render of this patent" width="350" height="250" align="left">
+<img src="../images/Final_Assembly.JPG" alt="CAD render of this patent" width="350" height="300" align="left">
 
 <img src="../images/patent_.jpg" alt="CAD render of this patent" width="300" height="200" align="right">
 
