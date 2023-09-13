@@ -3,9 +3,9 @@ title: "Dynamics and Vibration Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Tehran, Mechanical Engineering Department"
 date: 2022-01-01
-location: "City, Country"
+location: "Tehran, Iran"
 ---
 
 #### Under supervision of Prof.Arash Bahrami and Prof.Farzad Ayatollah Shirazi
