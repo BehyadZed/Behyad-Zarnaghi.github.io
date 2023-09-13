@@ -17,7 +17,7 @@ Smart Air Sanitizer Light With Remote Control is a multi-threading device that i
 
 Patent Number: 108316 
 
-<img src="../images/Final_Assembly.JPG" alt="CAD render of this patent" width="500" height="300" align="left">
+<img src="../images/Final_Assembly.JPG" alt="CAD render of this patent" width="350" height="200" align="left">
 
 <img src="../images/patent_.jpg" alt="CAD render of this patent" width="300" height="200" align="right">
 
