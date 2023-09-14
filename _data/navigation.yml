@@ -5,14 +5,15 @@ main:
     url: /talks/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Patent"
+    url: /markdown/ 
     
   - title: "CV" 
     url: /files/cv.pdf
     
-  - title: "Patent"
-    #photo: /images/Final_Assembly.JPG
-    url: /markdown/
+
 
   # - title: "Projects"
     # url: /publications/ 

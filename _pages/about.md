@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a 4th-year BSc student in the mechanical engineering department at university of Tehran. My main interest is oriented on robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking froward to leverage a great experience in my graduate studies. 
+Greetings! I am a 4th-year BSc student in the mechanical engineering department at University of Tehran. My main interest is oriented on robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking froward to leverage a great experience in my graduate studies. 
 
 Recently, I have participated in a robotics internship program at [ROMER](https://romer.metu.edu.tr/) located at Middle East Technical University (ODTÜ) under supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/). The objective was to understand multi-agent robotics and enhance correspondig simulation using ROS interface on Ubuntu OS.
 
-Additionlly, I am a junior engineer at [Pinjection](https://pinjection.com/en/home/). Our main priority is to develop automated mechanisms to asemble various parts of an insulin pen.
+Furtheremore, I am a junior engineer at [Pinjection](https://pinjection.com/en/home/) under supervision of [Prof. Alireza Sadeghi](https://me.ut.ac.ir/en/~alireza.sadeghi). Our main priority is to develop automated mechanisms to asemble various parts of an insulin pen.
 
 
-Selected Honors
-======
+### Selected Honors
+
 * Ranked in the top 15% of the mechanical engineering department (16th out of 130 students)
 * Received SFUT scholarship based on the each semester's GPA.
 * Achieved sub-1000 national rank in the university entrance exam. Ranked in the top 0.5% among nearly 150,000 students in the Iranian University Entrance Exam. 
