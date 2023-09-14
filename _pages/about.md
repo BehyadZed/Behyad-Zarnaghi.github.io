@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My main interest is oriented on robotics, specifically Multi-agent robotics. Additionally, interested in computer vision & image processing. I am looking froward to leverage a great experience in my graduate studies.
+Greetings! I am a  4th-year BSc student in the mechanical engineering department at university of Tehran. My main interest is oriented on robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking froward to leverage a great experience in my graduate studies. 
+
+Recently, I have participated in an robotics internship program at Middle East Technical University (ODTÜ) under supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/).
 
 Selected Experience
 ======
