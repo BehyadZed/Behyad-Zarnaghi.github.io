@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html  
 ---
 
-
   <!-- !['CAD render of the patent'](/images/foo-bar-identity.jpg)  -->
 <!-- ){: .align-right width="300px"}  -->
 <!-- images/Final_Assembly.JPG -->
