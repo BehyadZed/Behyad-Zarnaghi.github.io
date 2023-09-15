@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a 4th-year BSc student in the mechanical engineering department at University of Tehran. My main interest is oriented on robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking froward to leverage a great experience in my graduate studies. 
+Greetings! I am a 4th-year BSc student in the Mechanical Engineering department at the University of Tehran. My main interest is oriented toward robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking forward to leverage great experience in my graduate studies. 
 
-Recently, I have participated in a robotics internship program at [ROMER](https://romer.metu.edu.tr/) located at Middle East Technical University (ODTÜ) under supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/). The objective was to understand multi-agent robotics and enhance correspondig simulation using ROS interface on Ubuntu OS.
+Recently, I have participated in a robotics internship program at [ROMER](https://romer.metu.edu.tr/) located at Middle East Technical University (ODTÜ) under the supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/). The objective was to understand multi-agent robotics and enhance the corresponding simulation using the ROS interface on Ubuntu OS.
 
-Furtheremore, I am a junior engineer at [Pinjection](https://pinjection.com/en/home/) under supervision of [Prof. Alireza Sadeghi](https://me.ut.ac.ir/en/~alireza.sadeghi). Our main priority is to develop automated mechanisms to asemble various parts of an insulin pen.
+Furthermore, I am a junior engineer at [Pinjection](https://pinjection.com/en/home/) under the supervision of [Prof. Alireza Sadeghi](https://me.ut.ac.ir/en/~alireza.sadeghi). Our main priority is to develop automated mechanisms to assemble various parts of an insulin pen.
 
 
 ### Selected Honors
 
-* Ranked in the top 15% of the mechanical engineering department (16th out of 130 students)
+* Ranked in the top 15% of the Mechanical Engineering Department (16th out of 130 students)
 * Received [SFUT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLyOKy-KqBAxUI1AIHHcwlD1oQFnoECBMQAQ&url=https%3A%2F%2Fnet.ut.ac.ir%2Fcourse%2Fview.php%3Fid%3D102&usg=AOvVaw16l0V_6iKO3BVuDuqRMYgS&opi=89978449) scholarship based on the each semester's GPA.
-* Achieved sub-1000 national rank in the university entrance exam. Ranked in the top 0.5% among nearly 150,000 students in the Iranian University Entrance Exam. 
+* Achieved sub-1000 national rank in the university entrance exam. Ranked in the top 0.5% among nearly 150,000 students in the Iranian university entrance exam. 
 
 <!-- Getting started
 ====
