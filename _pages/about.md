@@ -10,7 +10,7 @@ redirect_from:
 
 Greetings! I am a 4th-year BSc student in the Mechanical Engineering department at the University of Tehran. My main interest is oriented toward robotics, specifically multi-agent robotics. Additionally, I am interested in computer vision & image processing. I am looking forward to leverage great experience in my graduate studies. 
 
-Recently, I have participated in a robotics internship program at [ROMER](https://romer.metu.edu.tr/) located at Middle East Technical University (ODTÜ) under the supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/). The objective was to understand multi-agent robotics and enhance the corresponding simulation using the ROS interface on Ubuntu OS.
+Recently, I have participated in a robotics internship program presented by [ROMER](https://romer.metu.edu.tr/) at Middle East Technical University (ODTÜ) under the supervision of [Prof. Erol Şahin](https://kovan.ceng.metu.edu.tr/~erol/). The objective was to understand multi-agent robotics and enhance the corresponding simulation using the ROS interface on Ubuntu OS.
 
 Furthermore, I am a junior engineer at [Pinjection](https://pinjection.com/en/home/) under the supervision of [Prof. Alireza Sadeghi](https://me.ut.ac.ir/en/~alireza.sadeghi). Our main priority is to develop automated mechanisms to assemble various parts of an insulin pen.
 

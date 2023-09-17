@@ -11,9 +11,8 @@ main:
     url: /markdown/ 
     
   - title: "CV" 
-    url: /files/cv.pdf
+    url: /files/CV-Behyad Zarnaghi.pdf
     
-
 
   # - title: "Projects"
     # url: /publications/ 
