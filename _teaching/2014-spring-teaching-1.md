@@ -8,5 +8,5 @@ date: 2022-01-01
 location: "Tehran, Iran"
 ---
 
-#### Under supervision of Prof.Arash Bahrami and Prof.Farzad Ayatollah Shirazi
+#### Under the supervision of Prof.Arash Bahrami and Prof.Farzad Ayatollah Shirazi
 I am resposible for coordinating and instructing lab sessions.

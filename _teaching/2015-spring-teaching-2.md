@@ -8,6 +8,6 @@ date: 2021-01-01
 location: "Tehran, Iran"
 ---
 
-#### Under supervision of Prof.Abolfazl Masoumi
+#### Under the supervision of Prof.Abolfazl Masoumi
 Performing my first academic teaching experience, I was resposible for Coordinated grading, feedback and assessment.
 

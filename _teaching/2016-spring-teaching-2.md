@@ -8,5 +8,5 @@ date: 2021-01-01
 location: "Tehran, Iran"
 ---
 
-#### Under supervision of Prof.Abbas Rastgo
+#### Under the supervision of Prof.Abbas Rastgo
  I was resposible for coordinated grading, feedback and assessment. Moreover, responsible for developing educational contents on how to work with ADAMS software and Python coding for dynamic and static analysis of single DOF mechanisms. 

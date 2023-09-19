@@ -8,5 +8,5 @@ date: 2023-01-01
 location: "Tehran, Iran"
 ---
 
-#### Under supervision of Prof.Ahmad Kalhor
+#### Under the supervision of Prof.Ahmad Kalhor
 Recently assigned as TA for this course, I am resposible for developing educational contents on relevant Python frame works like Pytorch and Keras.
