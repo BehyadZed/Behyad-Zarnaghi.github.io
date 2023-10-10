@@ -17,9 +17,9 @@ Furthermore, I am a junior engineer at [Pinjection](https://pinjection.com/en/ho
 
 ### Selected Honors
 
-* Ranked in the top 15% of the Mechanical Engineering Department (16th out of 130 students)
+* Ranked in the top 10% of the Mechanical Engineering Department's students
 * Received [SFUT](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLyOKy-KqBAxUI1AIHHcwlD1oQFnoECBMQAQ&url=https%3A%2F%2Fnet.ut.ac.ir%2Fcourse%2Fview.php%3Fid%3D102&usg=AOvVaw16l0V_6iKO3BVuDuqRMYgS&opi=89978449) scholarship based on the each semester's GPA.
-* Achieved sub-1000 national rank in the university entrance exam. Ranked in the top 0.5% among nearly 150,000 students in the Iranian university entrance exam. 
+* Achieved sub-1000 national rank in the university entrance exam. Ranked in the top 0.5% among nearly 150,000 students in the Iranian university entrance exam.
 
 <!-- Getting started
 ====
